@@ -1,1 +1,1 @@
-# arthurstrokov.github.io
+# http://arthurstrokov.github.io
